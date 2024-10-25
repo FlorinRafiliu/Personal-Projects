@@ -1,0 +1,3 @@
+Mihai|Strada Cosbuc,Strada Orastie|10|100|75
+George|Strada Romos,Strada Orastie|50|50|50
+Florin|Strada Cosbuc,Strada Aurel-Vlaicu|100|200|100

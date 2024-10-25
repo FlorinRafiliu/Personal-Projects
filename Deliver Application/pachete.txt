@@ -1,0 +1,9 @@
+Pachet1|Strada Cosbuc|1|500|250|true
+Pachet2|Strada Aurel-Vlaicu|2|100|100|false
+Pachet3|Strada Cosbuc|3|205|100|true
+Pachet4|Strada Orastie|4|150|135|false
+Pachet5|Strada Romos|5|40|90|false
+Pachet6|Strada Aurel-Vlaicu|6|40|33|false
+Pachet7|Strada Romos|7|15|30|false
+Pachet8|Strada Cosbuc|8|10|70|false
+PachetSpecial|Falsa|9|30|150|false
