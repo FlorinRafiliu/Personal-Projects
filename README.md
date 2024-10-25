@@ -1,12 +1,12 @@
 # Personal-Projects
 
-A collection of my first-year faculty homework projects. These projects reflect some of the skills I developed during that year
+A collection of some of my first-year faculty homework projects. These projects reflect some of the skills I developed during that year
 
 * Adoption Application (C++/QT):
     - This application supports two main modes: Admin and User.
     - In Admin mode, administrators can manage the shelter's dog database by adding, updating, or removing dog profiles, each containing details like breed, name, age, and a photo link.
     - In User mode, users can browse available dogs one by one, choose to adopt them (adding them to an adoption list), or skip to the next. Users can filter dogs by breed and age, view their adoption list, and save it in CSV or HTML format for easy access.
-    - Some of the skills I developed throw this application are:
+    - Some of the skills I developed while working on this application are:
       1. Data Management & CRUD Operations: Created a dynamic data management system for administrators to add, update, and delete records of dogs. I learned the importance of structured data handling for real-time updates and retrieval in applications.
       2. File I/O & Data Persistence: Implemented persistent data storage using text files and utilized C++ iostreams for reading/writing data. Developed custom insertion/extraction operators for streamlined file handling.
       3. STL & Algorithms: Replaced custom data structures with STL containers like std::vector, and used STL algorithms (copy_if, count_if) and range-based loops for concise and efficient code.
@@ -15,3 +15,11 @@ A collection of my first-year faculty homework projects. These projects reflect 
       6. UML Design: Created a UML class diagram to document and visualize the architecture, improving project organization and communication.
       7. Undo/Redo Functionality: Integrated advanced undo/redo capabilities for core operations using inheritance and polymorphism, enhancing the user experience with error correction.
       8. Data Visualization: Implemented visual representations (bar charts/pie charts) with QPainter/QCustomPlot for data insight, broadening my skills in visual data presentation.
+
+* Deliver Application(C++/QT):
+    - Description: An application which simulates the process of package delivering by couriers.
+    - The skills involved at Adoption App apply here also.
+
+* Patient Manager Application(C++/QT):
+    - Description: An application for the management of patients in a hospital
+    - This is another example of the applicability of the knowledge from the other two Apps(Adoption and Deliver).
