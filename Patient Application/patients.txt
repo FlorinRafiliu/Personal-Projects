@@ -1,0 +1,12 @@
+Florin|undiagnosed|||2024-06-26
+Denisa|indragostita|cardiolog|Marcel|2024-06-25
+Cozmin|gras|nutritionist|George|2024-06-27
+Mihai|gras|nutritionist|Doru|2024-06-30
+Marius|gras|nutritionist||2024-06-29
+DOrin|cu inima|cardiolog||2024-06-30
+DOrin1|cu inima|cardiolog|Marcel|2024-06-30
+OOP|undiagnosed|||2024-06-28
+OOP|diagnostica|cap||2024-06-28
+OOP|diagnostica|cap||2024-06-28
+OOP|diagnostica|cap||2024-06-28
+OOP|diagnostica|cap||2024-06-28
