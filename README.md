@@ -2,6 +2,8 @@
 
 A collection of some of my first-year faculty homework projects. These projects reflect some of the skills I developed during that year
 
+
+_C++ Projects_
 * Adoption Application (C++/QT):
     - This application supports two main modes: Admin and User.
     - In Admin mode, administrators can manage the shelter's dog database by adding, updating, or removing dog profiles, each containing details like breed, name, age, and a photo link.
@@ -23,3 +25,10 @@ A collection of some of my first-year faculty homework projects. These projects 
 * Patient Manager Application(C++/QT):
     - Description: An application for the management of patients in a hospital
     - This is another example of the applicability of the knowledge from the other two Apps(Adoption and Deliver).
+
+ _Python Projects_
+
+ 
+
+
+
